@@ -1,0 +1,14 @@
+body {
+    background-color: #181818;
+    color: white;
+}
+
+.nav-pills .nav-link {
+    color: white;
+}
+
+.nav-pills .nav-link:not(.active) {
+    background-color: orange;
+    color: black;
+}
+
